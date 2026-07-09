@@ -17,8 +17,6 @@ No installation required — just paste your resume and a job description to get
 
 ![ResumeGapAI screenshot](screenshot.png)
 
-*(Replace `screenshot.png` with an actual screenshot of the app running before pushing.)*
-
 ## ⚡ Quick Start
 
 ```bash
