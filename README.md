@@ -15,7 +15,9 @@ No installation required — just paste your resume and a job description to get
 
 ## 📸 Screenshot
 
-![ResumeGapAI screenshot](screenshot.png)
+![ResumeGapAI - empty state](Screenshot.png)
+
+![ResumeGapAI - results view](Screenshot%201.png)
 
 ## ⚡ Quick Start
 
