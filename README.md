@@ -59,6 +59,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 🙏 Acknowledgements
 
-Built as part of a 12-month structured Data Science & AI program — a curriculum for building production-ready AI tools.
+Built as part of a 13-month structured Data Science & AI program.
 
 Made with ❤️ by [Deepanshu](https://github.com/deepanshu0110)
